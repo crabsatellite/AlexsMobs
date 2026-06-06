@@ -8,7 +8,7 @@
           "type": "minecraft:loot_table",
           "weight": 4,
           "quality": -2,
-          "name": "minecraft:gameplay/fishing/junk"
+          "value": "alexsmobs:gameplay/seal_fishing_junk"
         },
         {
           "type": "minecraft:item",
